@@ -11,4 +11,3 @@ greeting
 greeting
 greeting
 greeting
-$
